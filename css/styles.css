@@ -226,8 +226,13 @@ input[type="submit"], input[type="button"] {
 }
 
 .info-box{
-    font-family: "Friend Regular";
+    border-radius: 15px;
+    font-family: Friend Regular;
     font-size: 4rem;
+    text-align: center;
+    font-size: 2.5rem;
+    Color: #253e7b;
+    background-color: #8dc642;
 }
 
 #position-one{
@@ -236,4 +241,12 @@ input[type="submit"], input[type="button"] {
 
 #position-two{
     grid-column-start: 2;
+}
+
+.fundraiser-title{
+    font-family: Friend Bold;
+    font-size: 3.5rem;
+    color: #812eb8;
+
+
 }
